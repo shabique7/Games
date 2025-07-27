@@ -43,10 +43,10 @@ Draws a series of polygons (triangle to 14-sided shapes).
 
 https://github.com/user-attachments/assets/fd3a0a34-f865-4253-b383-100a732f18ff
 
-🌈 Random Lines
+# 🌈 Random Lines
 This script creates a colorful random walk pattern using Python's turtle module. The turtle moves in random directions (0°, 90°, 180°, 360°) and uses randomly generated RGB colors for each step, creating a vibrant abstract design.
 
-🧩 Features
+# 🧩 Features
 Generates 200 random steps with changing colors.
 
 Fast rendering with increased turtle speed.
