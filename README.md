@@ -1,6 +1,5 @@
 # Games
 
-score
 # 🎨 Dot Painting with Turtle
 Inspired by Damien Hirst's dot paintings, this script creates a grid of colorful dots using Python's turtle graphics.
 
