@@ -40,7 +40,7 @@ Run the script.
 
 Enter your bet (choose a color: red, orange, yellow, green, blue, purple).
 
-https://github.com/user-attachments/assets/61513df7-c043-4782-9b0b-aa39037493df
+https://github.com/user-attachments/assets/2b4b7af4-7e59-4217-842a-116ec0ac925a
 
 Watch the race unfold and see if your turtle wins!
 
