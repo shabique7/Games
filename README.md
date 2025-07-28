@@ -11,7 +11,7 @@ Score tracking
 
 Game over on wall or tail collision
 
-https://github.com/user-attachments/assets/df61a00d-24e5-4d10-8752-52325c5b0d1f
+https://github.com/user-attachments/assets/839ad9ff-fbe8-46b6-ba88-debe115fe9ca
 
 # 📁 Files
 main.py — Game loop & controls
