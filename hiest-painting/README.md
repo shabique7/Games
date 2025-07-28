@@ -1,20 +1,14 @@
-# 🐢 Turtle Race Game
-A fun turtle race simulation built using Python's turtle module. Six colorful turtles race across the screen, and you get to bet on which one will win!
+# 🎨 Dot Painting with Turtle
+Inspired by Damien Hirst's dot paintings, this script creates a grid of colorful dots using Python's turtle graphics.
 
-# 🎮 Features
-Interactive user prompt to bet on a turtle color.
+# 🧩 Features
+Generates a 10x10 grid of vibrant dots.
 
-Six turtles with unique colors compete in a randomized race.
+Random color selection from a preset palette.
 
-Pop-up message displays the result of the race.
+Smooth and quick rendering with simple turtle commands.
 
-Visual and engaging turtle animations.
+#🎨 Output
+A 10x10 grid (100 dots) arranged neatly with random colors.
 
-# 🚀 How to Play
-Run the script.
-
-Enter your bet (choose a color: red, orange, yellow, green, blue, purple).
-
-https://github.com/user-attachments/assets/2b4b7af4-7e59-4217-842a-116ec0ac925a
-
-Watch the race unfold and see if your turtle wins!
+https://github.com/user-attachments/assets/1cc0c811-33a2-4c01-a0fc-4278ade63f3c
