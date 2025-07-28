@@ -1,49 +1,6 @@
 # Games
-# 🐍 Snake Game (Python)
-A simple Snake game built with Python’s turtle module. Eat food to grow, avoid crashing into walls or yourself, and try to beat your high score!
 
-# 🔹 Features
-Arrow key controls (Up, Down, Left, Right)
-
-Color-changing food
-
-Score tracking
-
-Game over on wall or tail collision
-
-https://github.com/user-attachments/assets/30bf7858-dd4f-4e6c-86a2-a4e598378615
-
-# 📁 Files
-main.py — Game loop & controls
-
-snake.py — Snake logic
-
-food.py — Food behavior
-
-scoreboard.py — Score display
-
-
-# 🐢 Turtle Race Game
-A fun turtle race simulation built using Python's turtle module. Six colorful turtles race across the screen, and you get to bet on which one will win!
-
-# 🎮 Features
-Interactive user prompt to bet on a turtle color.
-
-Six turtles with unique colors compete in a randomized race.
-
-Pop-up message displays the result of the race.
-
-Visual and engaging turtle animations.
-
-# 🚀 How to Play
-Run the script.
-
-Enter your bet (choose a color: red, orange, yellow, green, blue, purple).
-
-https://github.com/user-attachments/assets/2b4b7af4-7e59-4217-842a-116ec0ac925a
-
-Watch the race unfold and see if your turtle wins!
-
+score
 # 🎨 Dot Painting with Turtle
 Inspired by Damien Hirst's dot paintings, this script creates a grid of colorful dots using Python's turtle graphics.
 
