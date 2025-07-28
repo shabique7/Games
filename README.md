@@ -1,4 +1,26 @@
 # Games
+# 🐍 Snake Game (Python)
+A simple Snake game built with Python’s turtle module. Eat food to grow, avoid crashing into walls or yourself, and try to beat your high score!
+
+# 🔹 Features
+Arrow key controls (Up, Down, Left, Right)
+
+Color-changing food
+
+Score tracking
+
+Game over on wall or tail collision
+
+# 📁 Files
+main.py — Game loop & controls
+
+snake.py — Snake logic
+
+food.py — Food behavior
+
+scoreboard.py — Score display
+
+
 # 🐢 Turtle Race Game
 A fun turtle race simulation built using Python's turtle module. Six colorful turtles race across the screen, and you get to bet on which one will win!
 
